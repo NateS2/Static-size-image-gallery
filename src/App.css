@@ -15,7 +15,7 @@
   padding: 0px;
 }
 
-.container {
+.wrapper {
   position: relative;
   width: 50%;
 }
@@ -40,7 +40,7 @@
 }
 /* #2e2e2e */
 
-.container:hover .overlay {
+.wrapper:hover .overlay {
   opacity: 0.6;
 }
 
